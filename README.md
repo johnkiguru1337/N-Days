@@ -9,3 +9,4 @@ This repository will include automation scripts for various CVEs
 
 ### CVEs
 1. CVE-2017-8917 - Joomla SQL Vulnerability - After exploiting this CVE, use the credentials with this script to get a shell automatically! 
+2. CVE-2018-12613 - phpMyAdmin 4.8.1 - Remote Code Execution (RCE)
